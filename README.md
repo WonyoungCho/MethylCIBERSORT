@@ -1,5 +1,5 @@
 # MethylCIBERSORT
-[Pan-cancer deconvolution of tumour composition using DNA methylation](https://www.nature.com/articles/s41467-018-05570-1)
+[Pan-cancer deconvolution of tumour composition using DNA methylation (2018)](https://www.nature.com/articles/s41467-018-05570-1)
 
 MethylCIBERSORT v2.0.1 https://zenodo.org/record/1298968#.YiMc5ehBzmg
 
