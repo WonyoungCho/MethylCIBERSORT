@@ -1,8 +1,7 @@
 # MethylCIBERSORT
 [Pan-cancer deconvolution of tumour composition using DNA methylation](https://www.nature.com/articles/s41467-018-05570-1)
 
-
-v2.0.1 https://zenodo.org/record/1298968#.YiMc5ehBzmg
+MethylCIBERSORT v2.0.1 https://zenodo.org/record/1298968#.YiMc5ehBzmg
 
 ```bash
 R CMD INSTALL MethylCIBERSORT_0.2.1.tar.gz
