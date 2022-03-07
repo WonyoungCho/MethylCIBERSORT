@@ -24,7 +24,7 @@ RefData <- Stromal_v2
 RefPheno <- Stromal_v2.pheno
 
 Signature <- FeatureSelect.V4(CellLines.matrix = NULL,
-                              Heatmap = FALSE,
+                              Heatmap = TRUE,
                               export = TRUE,
                               sigName = "MyReference",
                               Stroma.matrix = RefData,
