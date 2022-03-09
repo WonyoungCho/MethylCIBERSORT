@@ -1,5 +1,11 @@
 ## Quick link
 
+| Function | Code |
+| -------- | ---- |
+| V4 | https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R/V4_Functions.R |
+| toptable | https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R_ref/toptable.R |
+| lmfit | https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R_ref/lmfit.R |
+
 - V4 : https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R/V4_Functions.R
 - toptable : https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R_ref/toptable.R
 - lmfit : https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R_ref/lmfit.R
