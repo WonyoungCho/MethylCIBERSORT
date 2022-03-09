@@ -1,5 +1,5 @@
 # limma
-Source codes come from the package of limma ( https://github.com/cran/limma/tree/master/R ).
+Source codes come from the limma package ( https://github.com/cran/limma/tree/master/R ).
 - https://www.rdocumentation.org/packages/limma/versions/3.28.14
 
 # Usage
