@@ -1,5 +1,7 @@
-Quick link
-https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R/V4_Functions.R
+## Quick link
+
+- https://github.com/WonyoungCho/MethylCIBERSORT/blob/main/R/V4_Functions.R
+- https://github.com/WonyoungCho/MethylCIBERSORT/raw/main/R_ref/toptable.R
 
 ---
 
