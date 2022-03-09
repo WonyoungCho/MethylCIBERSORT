@@ -44,6 +44,12 @@ Signature <- FeatureSelect.V4(CellLines.matrix = NULL,
                               Phenotype.stroma = RefPheno)
 ```
 
+# Cell type
+- CD4+  : regulatory T (Treg) cells and conventional T helper (Th) cells.
+- CD14+ : Monocyte and macrophages.
+- CD19+ : B cells
+- CD56+ : NK cells
+
 
 Reference
 - https://github.com/dannlbol/mcibersort_scripts
