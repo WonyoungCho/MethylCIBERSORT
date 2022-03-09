@@ -1,3 +1,3 @@
 # limma
 
-Sources code come from the packages limma ( https://github.com/cran/limma/tree/master/R ).
+Source codes come from the package of limma ( https://github.com/cran/limma/tree/master/R ).
