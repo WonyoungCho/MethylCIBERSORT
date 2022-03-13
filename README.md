@@ -18,9 +18,17 @@ R CMD INSTALL MethylCIBERSORT_0.2.1.tar.gz
 ```
 
 ```R
-library("MethylCIBERSORT")
+#!/usr/bin/env Rscript
 
-Mat <- read.table(file = 'beta_values.tsv', sep = '\t', header = TRUE, row.names = 1)
+args = commandArgs(trailingOnly=TRUE)
+beta_file <- args[1]
+project <- args[2]
+
+## Mat <- read.table(file="beta_values.tsv", sep = '\t', header = TRUE, row.names=1)
+Mat <- read.table(file=beta_file, sep = '\t', header = TRUE, row.names=1)
+head(Mat)
+
+library("MethylCIBERSORT")
 
 data("StromalMatrix_V2")
 
