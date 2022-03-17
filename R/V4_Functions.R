@@ -15,9 +15,11 @@ FeatureSelect.V4 <- function( CellLines.matrix = NULL, Heatmap = FALSE, export =
 
   if(!is.null(ncol(CellLines.matrix))) {  Pheno1 <- c(rep("Cancer",ncol(CellLines.matrix)))
   Pheno2 <- c(as.character(Pheno1), as.character(Phenotype.stroma)) } else { Pheno2 <- as.character(Phenotype.stroma)}
-
-  Mat2 <- cbind(CellLines.matrix, Stroma.matrix)
-
+  
+  Mat2 <- Stroma.matrix
+  if (!is.null(CellLines.matrix)) {
+     Mat2 <- cbind(CellLines.matrix, Stroma.matrix)
+  }
   message("Setting up for pairwise feature selection")
 
 
